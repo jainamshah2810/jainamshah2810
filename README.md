@@ -2,7 +2,9 @@
 <h3 align="center">A skilled programmer I'm always keen to learn new skills.</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently preparing **AWS Developer Assosicate Certificate.**
+- 🌱 I’m currently learning  **JAVA Springboot.**
+
+- 🌱 I’m currently also preparing **AWS Developer Assosicate Certificate.**
 
 - 💬 Ask me about **Software Developement, JAVA, AWS, Cloud Computing, Full Stack Developement**
 
